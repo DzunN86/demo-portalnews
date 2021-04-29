@@ -62,7 +62,6 @@
                 </li>
               </ul>
             </div>
-            <p class="uk-text-light">Built with strapi</p>
           </div>
         </div>
       </div>
