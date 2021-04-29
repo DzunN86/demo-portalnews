@@ -114,5 +114,5 @@ build
 .vscode
 dist
 .nuxt
-.env
+# .env
 yarn.lock
